@@ -1,0 +1,44 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "codeantai.apiKey": "Ih1S4wKzRjrCWSlK",
+    "terminal.integrated.env.linux": {},
+    "console-ninja.featureSet": "Community",
+    "workbench.colorTheme": "Tokyo Night",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "debug.onTaskErrors": "debugAnyway",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmPasteNative": false,
+    "tabnine.experimentalAutoImports": true,
+    "window.customTitleBarVisibility": "auto",
+    "git.openRepositoryInParentFolders": "never",
+    "totalTypeScript.hideAllTips": true,
+    "totalTypeScript.hideBasicTips": true,
+    "redhat.telemetry.enabled": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    // "[prisma]": {
+    //     "editor.defaultFormatter": "Prisma.prisma"
+    //   },
+    "[prisma]": {
+        "editor.formatOnSaveMode": "file",
+      },
+
+      "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "prisma.showPrismaDataPlatformNotification": false,
+      "files.autoSave": "afterDelay",
+}
+
